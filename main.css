@@ -1,14 +1,11 @@
 body{
 	font-family: 'Open Sans';
-	background-color: #AAA; 
+	background-color: #FFF; 
 	font-weight: 400;
+	color: #444;
 }
 
 a img{
 	width: 252px;
 	height:313px;
-}
-
-p{
-	font-family: 'Garamond';
 }
